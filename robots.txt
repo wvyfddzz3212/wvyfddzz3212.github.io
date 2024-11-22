@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_1.txt
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_14.txt
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_19.txt
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_23.txt
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_28.txt
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_32.txt
+Sitemap: https://wvyfddzz3212.github.io/wvyfddzz3212_github_io_zp531_7.txt
